@@ -3,7 +3,7 @@ kind: Pod
 metadata:
   name: annotations
   labels:
-    project: roboshop
+    project: roboshop1
     component: mysql
     tier: backend
     environment: dev
